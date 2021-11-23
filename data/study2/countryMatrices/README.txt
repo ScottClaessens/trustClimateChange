@@ -1,0 +1,1 @@
+For access to proximity matrices for countries, please contact Thanos Kyritsis (t.kyritsis@auckland.ac.nz) or Quentin Atkinson (q.atkinson@auckland.ac.nz).
